@@ -33,9 +33,9 @@ Belhard - Frontend Developer
     }}```
     
 ## Work experience:
-2013-2015 Chief Accountant of Mir DETA LLC
-2020-2021 - Website Content Manager
-2022-2023 - Site Administrator
+* 2013-2015 Chief Accountant of Mir DETA LLC
+* 2020-2021 - Website Content Manager
+* 2022-2023 - Site Administrator
 
 
 
