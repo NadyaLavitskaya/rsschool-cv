@@ -32,4 +32,9 @@ Belhard - Frontend Developer
         console.log(key + " " +obj1[key]);
     }}```
     
+    
+## Work experience:
+* 2013-2015 Chief Accountant of Mir DETA LLC
+* 2020-2021 - Website Content Manager
+* 2022-2023 - Site Administrator
 
