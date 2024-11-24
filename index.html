@@ -42,22 +42,23 @@
         <li class="inform_skil">2022-2023 - Site Administrator</li>
     </ul>
     <h2 id="code" class="inform_me">Sample code:</h2>
-        <code class="infor_skil">const obj1 = {
+        <code class="infor_skil">
+        const obj1 = {
         firstName: "Витя",<br>
         lastName: "Киселёв",<br>
         age: 45,<br>
         children: null,<br>
         dates: {<br>
-            birthday: '26.01.1977',<br>
-            wedding: '05.09.2000',<br>
-            graduationFromUniversity: '07.06.2003',<br>
-        },} for(let key in obj1)<br> { 
+        birthday: '26.01.1977',<br>
+        wedding: '05.09.2000',<br>
+        graduationFromUniversity: '07.06.2003',<br>
+        },} for(let key in obj1)<br> 
         if(typeof(obj1[key]) === "object"){<br>
-            for(let i in obj1[key]) {<br>
-                console.log(i+ " "+obj1[key][i]);<br>
-            }    }<br>
-        else {<br>
-            console.log(key + " " +obj1[key]);
+        for(let i in obj1[key]) {<br>
+        console.log(i+ " "+obj1[key][i]);<br>
+        }}<br>
+        else<br>
+        console.log(key + " " +obj1[key]);
         </code>
     </div>
 </body>
