@@ -1,1 +1,57 @@
-p
+body {
+margin: 0;
+}
+.menunav {
+    display: flex;
+    justify-content:space-between;
+	height: 80px;
+    background-color:rgb(244, 207, 207);
+}
+.allmenu {
+    list-style: none;
+    display: flex;
+    margin-left: 5px;
+}
+.name_my {
+    margin: 26px;
+}
+a {
+    text-decoration: none;
+}
+.element_menu {
+    width: 90px;
+	height: 40px;
+    background-color:rgb(236, 162, 162);
+    border-radius: 10px;
+    margin-left: 8px;
+    text-align: center;
+    padding-top: 13px;
+    font-size: 13px;
+    font-weight: 700;
+}
+.container {
+    display: grid;
+    grid-auto-flow: row dense;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: repeat(4, 1fr);
+}
+.inform_me {
+    margin: 26px;
+    color:rgb(56, 56, 138);
+}
+.inform_skil {
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    padding: 15px;
+}
+.experience {
+    padding-top: 35px;
+}
+.code_ex {
+    width: 300px;
+	height: 300px;
+    background-color:rgb(244, 207, 207);
+    border-radius: 30px;
+    text-align: left;
+    padding: 40px;
+}
